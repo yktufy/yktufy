@@ -1,34 +1,33 @@
 Oiii eu sou o Enzo, criadoror de conteúdo de programação e tecnologia!
 
-<span id="text" align="center" alt="enzo" span font-size="50" font-family="sans-serif" font-weight="1000" position="relative" color="white" span::before position="absolute" content="enzo manhezi lage" color="azure"  animation="filling 2s linear infinite" border-right="3" solid gree keyframes.filling  0% width 0% 50% width100%. 100% width: 0% >Enzo manhezi lage </span>
-
-## Estrutura CSS
-´´´css
-.span {
-    font-size: 50px;
-    font-family: sans-serif;
-    font-weight: 900;
-    position: relative;
-    color: azure;
-    -webkit-text-stroke: 2px black;
-}
-
-span::before {
-    position: absolute;
-    content: "enzo manhezi lage";
-    color: azure;
-    animation: filling 2s linear infinite;
-    border-right: 3px solid green;
-    overflow: hidden;
-}
-
-@keyframes filling {
-    0% { width: 0%; }
-    50% { width: 100%; }
-    100% { width: 0%; }
-}
-
-Desc
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    >
+    <style>
+        .span{
+            font-size: 50px;
+            font-family: sans-serif;
+            font-weight: 900;
+            position: relative;
+            color: azure;
+            -webkit-text-stroke: 2px black;
+        }
+	span::before {
+            position: absolute;
+            content: "enzo manhezi lage";
+            color: azure;
+            animation: filling 2s linear infinite;
+            border-right: 3px solid green;
+            overflow: hidden;
+        }
+	@keyframes filling {
+            0% { width: 0%; }
+            50% { width: 100%; }
+            100% { width: 0%; }
+        }
 
   <div style="display: inline_block"><br>
   <img align="center" alt="enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
