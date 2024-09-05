@@ -1,5 +1,7 @@
 Oiii eu sou o Enzo, criadoror de conteúdo de programação e tecnologia!
 
+<span align="center" alt="enzo" font-size="50" font-family="sans-serif" font-weight="1000" position="relative" color="white" samp::before position="absolute" content="enzo manhezi lage" color="azure"  animation="filling 2s linear infinite" border-right="3" solid gree> Enzo manhezi lage </span>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
